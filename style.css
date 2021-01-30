@@ -1,0 +1,13 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.penguine{
+    font-size: 50px;
+    font-weight: bold;
+}
+.btn btn-success{
+    color: yellowgreen;
+}
+.girl{
+   display: flex;
+}
